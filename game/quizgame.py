@@ -10,7 +10,7 @@ Fragen = [
     
 ]
 
-# initialisieren der Score
+# initialisieren des Score
 Score = 0
 
 # Willkommensnachricht
