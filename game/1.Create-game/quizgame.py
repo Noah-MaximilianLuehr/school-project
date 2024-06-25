@@ -2,11 +2,7 @@
 
 # Fragen und Antworten
 Fragen = [
-    {"Frage": "Was ist die Hauptstadt von Frankreich?", "Antwort": "Paris", "Zur Auswahl stehen": ["Paris", "London", "Berlin"]},
-    {"Frage": "Was is der Größte Planet in unserem Sonnensystem?", "Antwort": "Jupiter", "Zur Auswahl stehen": ["Erde", "Saturn", "Jupiter"]},
-    {"Frage": "Was ist das größte Säugetier?", "Antwort": "Wal", "Zur Auswahl stehen": ["Elefant", "Wal", "Löwe"]},
-    {"Frage": "Welcher is der höchste Berg?", "Antwort": "Mount Everest", "Zur Auswahl stehen": ["Mount Everest", "Mount Kilimanjaro", "Mount Fuji"]},
-    {"Frage": "Welche is die größte noch lebende spezies von Eidechsen?", "Antwort": "Komodowarane", "Zur Auswahl stehen": ["Komodowarane", "Salzwasserkrokodil", "Black Mamba"]},
+    {"Frage": " A, »B« or C ", "Antwort": "B", "Zur Auswahl stehen": ["A", "B", "C"]},
     
 ]
 
